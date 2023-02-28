@@ -1,0 +1,1 @@
+# Projeto Argum - Insights Platform App
